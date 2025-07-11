@@ -1,4 +1,4 @@
-# 🤖 Gemini-Free RAG Chatbot with Together.ai, FAISS, and Gradio (Colab)
+#  RAG Chatbot with Together.ai, FAISS, and Gradio (Colab)
 
 A fully open-source Retrieval-Augmented Generation (RAG) chatbot built for Google Colab.  
 It allows users to upload documents (PDF, DOCX, TXT, Images) and ask natural language questions.  
