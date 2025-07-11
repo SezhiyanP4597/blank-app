@@ -1,1 +1,10 @@
-streamlit
+together 
+langchain 
+langchain-community 
+faiss-cpu 
+sentence-transformers 
+pymupdf 
+python-docx 
+pytesseract 
+Pillow 
+gradio
